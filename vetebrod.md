@@ -4,11 +4,11 @@
 
 
 ## Shopping List
-- 380g Butter
-- 925g Flour (all purpose or pastry flour)
+- 265g Butter
+- 900g Flour (all purpose or pastry flour)
 - 200g of marzipan of approx 25% almond paste
 - 215g of sugar
-- 30g of cardamom (seeds only, not pods or pre-ground)
+- 26g of cardamom (seeds only, not pods or pre-ground)
 - 1/2 tsp or 3grams of salt
 - 1/2 L milk
 - 2 packets of active dry yeast (8g each)
@@ -30,10 +30,10 @@
 #### Ingredients
 - 200g of marzipan of approx 25% almond paste
 - 80g of sugar ~ 6 tbsp or 90 mL
-- 22g of ground cardamom ~ 8 tsp 
+- 18g of ground cardamom ~ 6 and 1/2 tsp 
 
 #### Method
-1. finely grind up 22g of cardamom, I've got a pepper mill dedicated just to cardamom for this
+1. finely grind up 18g of cardamom, I've got a pepper mill dedicated just to cardamom for this
 2. combine with the 80g of sugar in a container larger than a your grater.
 
    _Note: if you are using a marzipan with a higher almond paste % increase the sugar balance. Maybe 100g or 120g for a 50% paste._
@@ -48,7 +48,7 @@
 - 2 packets of active dry yeast
 - 1/2 tsp of Salt
 - 8g of ground cardamom ~ 3 tsp or 1 tbsp
-- 925g of flour
+- roughly 900g of flour
 
 #### Method
 1. Warm milk to 37°C 
@@ -70,22 +70,22 @@
 ### Bread
 #### Ingredients
 - Filling from above
-- Doug from above, quartered
+- Dough from above, quartered
 - Pearl Sugar or similar for decoration
 - 1-2 Eggs for egg wash
-- 240 mL of butter ~ 1 cup or 230g
+- 120 mL of butter ~ 1/2 cup or 115g
 
 **Egg Wash**
-Seperate the yokes of the egg from the whites and put in container. Whisk until broken up and optionally add a small amount of milk.
+Separate the yokes of the egg from the whites and put in container. Whisk until broken up and optionally add a small amount of milk.
 The more dilute the egg wash the lighter its colour when baked.
 
 **Repeat the following 4x**
 1. Roll the dough into a rectangle roughly the size of an A4 / Letter sheet of paper
-2. Lightly melt and spread 1/4 of the butter (60mL, 57g, 1/4 cup) over the rectangle of dough.
+2. Lightly melt and spread 1/4 of the butter (30mL, 29g, 1/8 cup) over the rectangle of dough.
 3. Sprinkle 1/4 of the filling over top (probably 70g but check. There's always some marzipan lost when grating)
 4. Roll tightly (think yule log) from either of the shorter edges of the rectangle
 5. Place on baking tray and using scissors cut from above 90% of the way through 10 times down the length of the roll.
-    _Leave each end in the middle and then as you go down the length push each nearly seperate puck to either side alternating._
+    _Leave each end in the middle and then as you go down the length push each nearly separate puck to either side alternating._
 6. Let sit for ~30 minutes to rise again.
 8. Set the oven for 365°F or 185°C 
 7. Apply egg wash and sprinkle the pearl sugar on top.
