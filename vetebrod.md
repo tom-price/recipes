@@ -5,7 +5,7 @@
 
 ## Shopping List
 - 265g Butter
-- 900g Flour (all purpose or pastry flour)
+- Between 850 and 900 grams Flour (all purpose or pastry flour)
 - 200g of marzipan of approx 25% almond paste
 - 215g of sugar
 - 26g of cardamom (seeds only, not pods or pre-ground)
@@ -29,7 +29,7 @@
 ### Filling
 #### Ingredients
 - 200g of marzipan of approx 25% almond paste
-- 80g of sugar ~ 6 tbsp or 90 mL
+- 60g of sugar ~ 6 tbsp or 90 mL
 - 18g of ground cardamom ~ 6 and 1/2 tsp 
 
 #### Method
@@ -67,7 +67,7 @@
 9. Let the dough rise in a warm place for 40 minutes
 10. Punch dough down and quarter it.
 
-### Bread
+### Finishing
 #### Ingredients
 - Filling from above
 - Dough from above, quartered
@@ -94,4 +94,4 @@ The more dilute the egg wash the lighter its colour when baked.
     _Note: I normally bake 2 at a time following the steps above in parallel_
 
 **Alternative Baking:**
-Instead, cut the rolls all the way through creating cinnamon roll like shapes and bake these at 425°F or 220°C for 5-10 minutes.
+Instead, cut the rolls all the way through creating cinnamon roll like shapes and bake these at 425°F or 220°C for 8-12 minutes.
