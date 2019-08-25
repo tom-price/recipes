@@ -1,11 +1,11 @@
 # Vetebröd x 4
 
-![Vetebrod](https://instagram.fybz2-1.fna.fbcdn.net/vp/6cc7ad92a940dd00d6e4d37730ecbd17/5CBD8E31/t51.2885-15/e35/41697174_100653930924523_3969061901442471503_n.jpg?_nc_ht=instagram.fybz2-1.fna.fbcdn.net)
+![Vetebrod](https://instagram.fybz2-1.fna.fbcdn.net/vp/ff8610c21a33e5538e1916bddb2b39d5/5DF9F631/t51.2885-15/e35/41697174_100653930924523_3969061901442471503_n.jpg?_nc_ht=instagram.fybz2-1.fna.fbcdn.net)
 
 
 ## Shopping List
-- 265g Butter
-- Between 850 and 900 grams Flour (all purpose or pastry flour)
+- 325g Butter
+- Roughly 850g Unbleached All Purpose Flour
 - 200g of marzipan of approx 25% almond paste
 - 215g of sugar
 - 26g of cardamom (seeds only, not pods or pre-ground)
@@ -48,7 +48,7 @@
 - 2 packets of active dry yeast
 - 1/2 tsp of Salt
 - 8g of ground cardamom ~ 3 tsp or 1 tbsp
-- roughly 900g of flour
+- up to 850g of flour
 
 #### Method
 1. Warm milk to 37°C 
@@ -73,7 +73,7 @@
 - Dough from above, quartered
 - Pearl Sugar or similar for decoration
 - 1-2 Eggs for egg wash
-- 120 mL of butter ~ 1/2 cup or 115g
+- 180 mL of butter ~ 3/4 cup or 172g
 
 **Egg Wash**
 Separate the yokes of the egg from the whites and put in container. Whisk until broken up and optionally add a small amount of milk.
@@ -81,7 +81,7 @@ The more dilute the egg wash the lighter its colour when baked.
 
 **Repeat the following 4x**
 1. Roll the dough into a rectangle roughly the size of an A4 / Letter sheet of paper
-2. Lightly melt and spread 1/4 of the butter (30mL, 29g, 1/8 cup) over the rectangle of dough.
+2. Lightly melt and spread 1/4 of the butter (45mL, 43g, 3/16 cup, 3 tbsp) over the rectangle of dough.
 3. Sprinkle 1/4 of the filling over top (probably 70g but check. There's always some marzipan lost when grating)
 4. Roll tightly (think yule log) from either of the shorter edges of the rectangle
 5. Place on baking tray and using scissors cut from above 90% of the way through 10 times down the length of the roll.
