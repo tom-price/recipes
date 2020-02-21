@@ -5,7 +5,7 @@
 
 ## Shopping List
 - 325g Butter
-- Roughly 850g Unbleached All Purpose Flour
+- Roughly 800g Unbleached All Purpose Flour
 - 200g of marzipan of approx 25% almond paste
 - 215g of sugar
 - 26g of cardamom (seeds only, not pods or pre-ground)
@@ -48,10 +48,10 @@
 - 2 packets of active dry yeast
 - 1/2 tsp of Salt
 - 8g of ground cardamom ~ 3 tsp or 1 tbsp
-- up to 850g of flour
+- roughly 800g of flour
 
 #### Method
-1. Warm milk to 37°C 
+1. Warm milk to 38°C 
 
     _Note: there are many ways to do this, but too hot will kill the yeast. I heat it in a container inside a water bath maintained at 37°C by my sous vide cooker._ 
 
@@ -76,7 +76,7 @@
 - 180 mL of butter ~ 3/4 cup or 172g
 
 **Egg Wash**
-Separate the yokes of the egg from the whites and put in container. Whisk until broken up and optionally add a small amount of milk.
+Separate the yokes of the egg from the whites and put in container. Whisk until broken up and add a small amount of milk.
 The more dilute the egg wash the lighter its colour when baked.
 
 **Repeat the following 4x**
@@ -89,7 +89,7 @@ The more dilute the egg wash the lighter its colour when baked.
 6. Let sit for ~30 minutes to rise again.
 8. Set the oven for 365°F or 185°C 
 7. Apply egg wash and sprinkle the pearl sugar on top.
-8. Bake for 20 minutes.
+8. Bake for 22 minutes.
 
     _Note: I normally bake 2 at a time following the steps above in parallel_
 
