@@ -36,7 +36,7 @@
 1. finely grind up 18g of cardamom, I've got a pepper mill dedicated just to cardamom for this
 2. combine with the 80g of sugar in a container larger than a your grater.
 
-   _Note: if you are using a marzipan with a higher almond paste % increase the sugar balance. Maybe 100g or 120g for a 50% paste._
+    Note: if you are using a marzipan with a higher almond paste % increase the sugar balance. Maybe 100g or 120g for a 50% paste._
 3. grate the 200g of marzipan into the container containing the sugar and cardamom.
     The key is to use the sugar and cardamom to prevent the marzipan from sticking back to itself again.
 
